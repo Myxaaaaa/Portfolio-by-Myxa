@@ -1,0 +1,59 @@
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("../../t/1.css");
+  
+@font-face {
+  font-family: "HelveticaNowTextRegular";
+  font-style: normal;
+  font-stretch: normal;
+  src: url('webFonts/HelveticaNowTextRegular/normal_normal.woff') format('woff'), url('webFonts/HelveticaNowTextRegular/normal_normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GilroyExtraBold";
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  src: url('webFonts/GilroyExtraBold/normal_normal_800.woff') format('woff'), url('webFonts/GilroyExtraBold/normal_normal_800.woff2') format('woff2');
+}
+@font-face {
+  font-family: "HelveticaNowMicroRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('HelveticaNow/HelveticaNowMicroRegular_normal_normal.woff') format('woff'), url('HelveticaNow/HelveticaNowMicroRegular_normal_normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "HelveticaNowTextBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('HelveticaNow/HelveticaNowTextBold_normal_normal.woff') format('woff'), url('HelveticaNow/HelveticaNowTextBold_normal_normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "HelveticaNowTextLight";
+  font-style: normal;
+  font-stretch: normal;
+  src: url('webFonts/HelveticaNowTextLight/normal_normal.woff') format('woff'), url('webFonts/HelveticaNowTextLight/normal_normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "GilroyLight";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Gilroy/GilroyLight_normal_normal.woff') format('woff'), url('Gilroy/GilroyLight_normal_normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "HelveticaNowDisplayBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('HelveticaNow/HelveticaNowDisplayBold_normal_normal.woff') format('woff'), url('HelveticaNow/HelveticaNowDisplayBold_normal_normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: "HelveticaNowDisplayRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('HelveticaNow/HelveticaNowDisplayRegular_normal_normal.woff') format('woff'), url('HelveticaNow/HelveticaNowDisplayRegular_normal_normal.woff2') format('woff2');
+}
